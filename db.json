@@ -1,14 +1,2 @@
-{
-  "posts": [
-    { "id": 1, "title": "Alessio" },
-    { "id": 2, "title": "Ludovici" },
-    { "id": 3, "title": "Porco" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+name	:	h2oServiceMappings
+value	:	[{\"h2oId\":\"224\",\"qpId\":\"6\",\"wz\":\"ENDOSCOPIA - CHIRURUGIA AMBULATORIALE\"},{\"h2oId\":\"208\",\"qpId\":\"7\",\"wz\":\"DIAGNOSTICA\"},{\"h2oId\":\"6\",\"qpId\":\"8\",\"wz\":\"ENDOSCOPIA - CHIRURUGIA AMBULATORIALE\"},{\"h2oId\":\"14\",\"qpId\":\"10\",\"wz\":\"ENDOSCOPIA - CHIRURUGIA AMBULATORIALE\"},{\"h2oId\":\"564\",\"qpId\":\"11\",\"wz\":\"ENDOSCOPIA - CHIRURUGIA AMBULATORIALE\"},{\"h2oId\":\"312\",\"qpId\":\"14\",\"wz\":\"ENDOSCOPIA - CHIRURUGIA AMBULATORIALE\"},{\"h2oId\":\"291\",\"qpId\":\"13\",\"wz\":\"VISITE\"},{\"h2oId\":\"186\",\"qpId\":\"16\",\"wz\":\"DEGENZA - PREOSPEDALIZZAZIONE\"},{\"h2oId\":\"192\",\"qpId\":\"15\",\"wz\":\"FISIOTERAPIA\"},{\"h2oId\":\"526\",\"qpId\":\"19\",\"wz\":\"FISIOTERAPIA\"},{\"h2oId\":\"525\",\"qpId\":\"18\",\"wz\":\"OCULISTICA\"},{\"h2oId\":\"490\",\"qpId\":\"132\",\"wz\":\"DIAGNOSTICA\"},{\"h2oId\":\"378\",\"qpId\":\"20\",\"wz\":\"VISITE\"},{\"h2oId\":\"608\",\"qpId\":\"133\",\"wz\":\"VISITE\"},{\"h2oId\":\"558\",\"qpId\":\"22\",\"wz\":\"VISITE\"},{\"h2oId\":\"573\",\"qpId\":\"135\",\"wz\":\"VISITE\"},{\"h2oId\":\"686\",\"qpId\":\"134\",\"wz\":\"DIAGNOSTICA\"},{\"h2oId\":\"193\",\"qpId\":\"25\",\"wz\":\"ODONTOIATRIA\"},{\"h2oId\":\"571\",\"qpId\":\"24\",\"wz\":\"ODONTOIATRIA\"},{\"h2oId\":\"373\",\"qpId\":\"26\",\"wz\":\"VISITE\"},{\"h2oId\":\"21\",\"qpId\":\"136\",\"wz\":\"VISITE\"},{\"h2oId\":\"548\",\"qpId\":\"139\",\"wz\":\"VISITE\"},{\"h2oId\":\"380\",\"qpId\":\"78\",\"wz\":\"VISITE\"},{\"h2oId\":\"410\",\"qpId\":\"137\",\"wz\":\"VISITE\"},{\"h2oId\":\"676\",\"qpId\":\"138\",\"wz\":\"VISITE\"},{\"h2oId\":\"604\",\"qpId\":\"80\",\"wz\":\"VISITE\"}]
